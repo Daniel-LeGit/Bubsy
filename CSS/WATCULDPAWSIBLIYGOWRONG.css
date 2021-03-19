@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    background-color: darkred;
+    
+}
+
+header{
+    
+    background-color: orange;
+    text-align: center;
+}
+
+header img{
+    
+    width: 500px;
+    border-radius: 250px 75px 275px 175px;
+    
+}
