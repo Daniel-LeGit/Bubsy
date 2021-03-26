@@ -12,16 +12,13 @@ header{
     text-align: center;
     padding-top: 50px;
     padding-bottom: 25px;
-    border: ridge 25px #926640;
+    border: ridge 50px #005999;
 }
 
 header img{
     
     width: 500px;
-    height: 250px;
-    border-radius: 250px 125px 275px 175px;
-    object-fit: cover;
-    border: 10px dashed #152575;
+    height: 350px;
     margin-top: 25px;
     margin-bottom: 25px;
 }
