@@ -31,7 +31,7 @@ h1, h2{
 
 main{
     
-    max-width: 250px;
+    max-width: 256px;
     text-align: center;
     margin: 0px auto;
 }
@@ -45,6 +45,15 @@ main img{
 h2{
     
     color: aliceblue;
+    
+}
+
+h3{
+    
+    color: red;
+    font-family: cursive;
+    
+    text-align: center;
     
 }
 
@@ -62,10 +71,16 @@ a:hover{
 footer{
     
     background-color: #297950;
-    text-align: center;
-    color: darkmagenta;
     padding: 1px;
     box-shadow: 0 -25px 25px 15px #297950;
+}
+
+.info{
+    
+    text-align: center;
+    color: darkmagenta;
+    
+    
 }
 
 .caption{
@@ -76,7 +91,7 @@ footer{
     
 }
 
-.about{
+.aboot{
     
     margin: 25px auto;
     
